@@ -1,0 +1,8 @@
+node_modules/
+.env
+.local.env
+.idea/
+file-management.iml
+app.log
+yarn.lock
+package-lock.json
